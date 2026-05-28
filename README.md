@@ -1,5 +1,4 @@
 # sms_spam_detector
-Module 21
 # SMS Spam Classification
 # SMS Spam Classification
 
